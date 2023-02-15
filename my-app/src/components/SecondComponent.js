@@ -1,5 +1,5 @@
 
-
+//Anatomia de uma arrow function em javascript
 const SecondComponent = () =>{
 
     return(
