@@ -1,4 +1,5 @@
 import FirstComponent from "./components/FirstComponent";
+import FourComponent from "./components/FourComponent";
 import SecondComponent from "./components/SecondComponent";
 import ThirdComponent from "./components/ThirdComponent";
 
@@ -11,6 +12,7 @@ const  App = () =>{
         <FirstComponent />
         <SecondComponent />
         <ThirdComponent />
+        <FourComponent />
   </div>    
   );
 }

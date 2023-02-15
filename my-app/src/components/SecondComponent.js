@@ -1,13 +1,13 @@
-
+import { Fragment } from "react";
 //Anatomia de uma arrow function em javascript
 
 const SecondComponent = () =>{
 
     return(
 
-        <div>
+        <Fragment>
           <h1>Second Component now!!!!!!</h1>
-        </div>
+        </Fragment>
     );
 }
 

@@ -1,12 +1,13 @@
+import { Fragment } from "react";
 
 // Anatomia de uma função em React JS
  const  FirstComponent = () => {
  
 
     return(
-        <div>
+        <Fragment>
            <h1>Primeiro Componente em React 2023 !!!!!</h1>
-        </div>
+        </Fragment>
     );
 }
 

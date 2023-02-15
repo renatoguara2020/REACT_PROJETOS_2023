@@ -1,14 +1,15 @@
 
+import { Fragment } from 'react';
 
 const ThirdComponent = () => {
 
 
     return(
 
-        <div>
+        <Fragment>
           <h1>Third Component terceiro</h1>
-        </div>
-    )
+        </Fragment>
+    );
 }
 
 export default ThirdComponent
