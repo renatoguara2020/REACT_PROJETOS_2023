@@ -6,7 +6,7 @@ const FourComponent = () =>{
     return(
 
         <Fragment>
-          <h1>Four Component em React quarto</h1>
+          <h1>Fourth Component em React quarto</h1>
         </Fragment>
     );
 }

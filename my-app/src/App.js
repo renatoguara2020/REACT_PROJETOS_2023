@@ -3,6 +3,8 @@ import FourComponent from "./components/FourComponent";
 import SecondComponent from "./components/SecondComponent";
 import ThirdComponent from "./components/ThirdComponent";
 import FiveComponent from "./components/FiveComponent";
+import SixthComponent from "./components/SixthComponent";
+import SeventhComponent from "./components/SeventhComponent";
 
 
 const  App = () =>{
@@ -15,6 +17,8 @@ const  App = () =>{
         <ThirdComponent />
         <FourComponent />
         <FiveComponent />
+        <SixthComponent />
+        <SeventhComponent />
   </div>    
   );
 }

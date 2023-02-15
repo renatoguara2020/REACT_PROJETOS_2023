@@ -6,7 +6,7 @@ const FiveComponent = () =>{
 
 
         <Fragment>
-             <h1>Five Component cinco</h1>  
+             <h1>Fiveth Component cinco</h1>  
         </Fragment>
     );
 }
