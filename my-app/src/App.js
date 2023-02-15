@@ -2,6 +2,7 @@ import FirstComponent from "./components/FirstComponent";
 import FourComponent from "./components/FourComponent";
 import SecondComponent from "./components/SecondComponent";
 import ThirdComponent from "./components/ThirdComponent";
+import FiveComponent from "./components/FiveComponent";
 
 
 const  App = () =>{
@@ -13,6 +14,7 @@ const  App = () =>{
         <SecondComponent />
         <ThirdComponent />
         <FourComponent />
+        <FiveComponent />
   </div>    
   );
 }
