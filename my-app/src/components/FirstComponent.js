@@ -5,7 +5,7 @@
 
     return(
         <div>
-           <h1>Primeiro Componente em React 2023 !!!!!!!!!!1</h1>
+           <h1>Primeiro Componente em React 2023 !!!!!</h1>
         </div>
     );
 }
